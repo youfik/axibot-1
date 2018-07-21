@@ -1,0 +1,18 @@
+{
+  "name": "lizard-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Etern4lSec",
+  "license": "",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "get-meme-urls": "^1.0.1",
+    "get-random-quote": "^1.1.3",
+    "nodeyourmeme": "^2.0.0",
+    "random-cat": "^1.0.1"
+  }
+}
