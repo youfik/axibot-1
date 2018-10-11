@@ -9,10 +9,17 @@
   "author": "Etern4lSec",
   "license": "",
   "dependencies": {
+    "aes": "^0.1.0",
+    "bitly": "^6.0.8",
     "discord.js": "^11.3.2",
+    "encodeurl": "^1.0.2",
     "get-meme-urls": "^1.0.1",
     "get-random-quote": "^1.1.3",
+    "haveibeenpwned": "^1.1.0",
+    "hibp": "^7.1.3",
+    "mathjs": "^5.0.4",
     "nodeyourmeme": "^2.0.0",
-    "random-cat": "^1.0.1"
+    "random-cat": "^1.0.1",
+    "random-puppy": "^1.1.0"
   }
 }
